@@ -7,3 +7,4 @@
 [see more](https://materializecss.com/getting-started.html)
 
 - install react router by typing `npm install react-router-dom`. 
+- create React components & classes .
